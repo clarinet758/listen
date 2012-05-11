@@ -1,0 +1,14 @@
+listen1.0  UPLOAD 2012/05/11
+postmusic.scpt(AppleScript) iTunesから投稿する情報の取得
+postmusic.py  (python)      Twitter投稿のスクリプト
+
+1.想定している動作
+TwitterのTL上にiTunesで現在の聴いている曲の情報を投稿
+
+2.今後予定するもの
+動作時にiTunesが再生中かどうか判定し再生中でない場合はその時点で停止する
+当該の曲のiTunes上での再生回数の表示
+
+作成時の参考先サイトさま
+http://d.hatena.ne.jp/k_kinukawa/20101012/1286866724
+http://d.hatena.ne.jp/reppets/20100522/1274553529
