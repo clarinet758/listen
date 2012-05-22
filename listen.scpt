@@ -1,4 +1,4 @@
-#!/usr/bin/osascript
+#!/usr/bin/env osascript
 
 on replaceText(myText, serchStr, replaceStr)
 	set theDelim to AppleScript's text item delimiters
