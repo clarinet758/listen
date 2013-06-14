@@ -22,4 +22,4 @@ set i_track to replaceText(i_track, "\"", " ")
 set i_album to replaceText(i_album, "\"", " ")
 set i_count to replaceText(i_count as string, "\"", " ")
 
-do shell script "/jikken/Tloop/postmusic.py \"" & i_artist & "\" \"" & i_track & "\" \"" & i_album & "\" \"" & i_count & "\""
+do shell script "~/listen/postmusic.py \"" & i_artist & "\" \"" & i_track & "\" \"" & i_album & "\" \"" & i_count & "\""

@@ -1,6 +1,8 @@
-listen1.5  UPLOAD 2012/05/22
+listen1.5.1  UPLOAD 2013/06/14
 listen.scpt(AppleScript)  Obtain information from iTunes 
 postmusic.py  (python)    Post to Twitter
+
+changed to correspond to the API1.1
 
 1.Behavior
 Post to Twitter from iTunes playing
